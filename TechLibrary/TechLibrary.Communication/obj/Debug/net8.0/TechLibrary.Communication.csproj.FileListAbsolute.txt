@@ -9,3 +9,15 @@ C:\Users\Daniel Chaves\source\repos\NLW\TechLibrary\TechLibrary.Communication\ob
 C:\Users\Daniel Chaves\source\repos\NLW\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\refint\TechLibrary.Communication.dll
 C:\Users\Daniel Chaves\source\repos\NLW\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\TechLibrary.Communication.pdb
 C:\Users\Daniel Chaves\source\repos\NLW\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\ref\TechLibrary.Communication.dll
+C:\Users\dsilva\OneDrive - Nepreconsulting\Desktop\NLW\nlw_dotnet_fev_2025\TechLibrary\TechLibrary.Communication\bin\Debug\net8.0\TechLibrary.Communication.deps.json
+C:\Users\dsilva\OneDrive - Nepreconsulting\Desktop\NLW\nlw_dotnet_fev_2025\TechLibrary\TechLibrary.Communication\bin\Debug\net8.0\TechLibrary.Communication.dll
+C:\Users\dsilva\OneDrive - Nepreconsulting\Desktop\NLW\nlw_dotnet_fev_2025\TechLibrary\TechLibrary.Communication\bin\Debug\net8.0\TechLibrary.Communication.pdb
+C:\Users\dsilva\OneDrive - Nepreconsulting\Desktop\NLW\nlw_dotnet_fev_2025\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\TechLibrary.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsilva\OneDrive - Nepreconsulting\Desktop\NLW\nlw_dotnet_fev_2025\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\TechLibrary.Communication.AssemblyInfoInputs.cache
+C:\Users\dsilva\OneDrive - Nepreconsulting\Desktop\NLW\nlw_dotnet_fev_2025\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\TechLibrary.Communication.AssemblyInfo.cs
+C:\Users\dsilva\OneDrive - Nepreconsulting\Desktop\NLW\nlw_dotnet_fev_2025\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\TechLibrary.Communication.csproj.CoreCompileInputs.cache
+C:\Users\dsilva\OneDrive - Nepreconsulting\Desktop\NLW\nlw_dotnet_fev_2025\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\TechLibrary.Communication.sourcelink.json
+C:\Users\dsilva\OneDrive - Nepreconsulting\Desktop\NLW\nlw_dotnet_fev_2025\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\TechLibrary.Communication.dll
+C:\Users\dsilva\OneDrive - Nepreconsulting\Desktop\NLW\nlw_dotnet_fev_2025\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\refint\TechLibrary.Communication.dll
+C:\Users\dsilva\OneDrive - Nepreconsulting\Desktop\NLW\nlw_dotnet_fev_2025\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\TechLibrary.Communication.pdb
+C:\Users\dsilva\OneDrive - Nepreconsulting\Desktop\NLW\nlw_dotnet_fev_2025\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\ref\TechLibrary.Communication.dll

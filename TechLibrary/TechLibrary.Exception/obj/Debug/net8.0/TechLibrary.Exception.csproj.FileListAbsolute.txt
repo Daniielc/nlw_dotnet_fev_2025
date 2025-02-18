@@ -9,3 +9,15 @@ C:\Users\Daniel Chaves\source\repos\NLW\TechLibrary\TechLibrary.Exception\obj\De
 C:\Users\Daniel Chaves\source\repos\NLW\TechLibrary\TechLibrary.Exception\obj\Debug\net8.0\refint\TechLibrary.Exception.dll
 C:\Users\Daniel Chaves\source\repos\NLW\TechLibrary\TechLibrary.Exception\obj\Debug\net8.0\TechLibrary.Exception.pdb
 C:\Users\Daniel Chaves\source\repos\NLW\TechLibrary\TechLibrary.Exception\obj\Debug\net8.0\ref\TechLibrary.Exception.dll
+C:\Users\dsilva\OneDrive - Nepreconsulting\Desktop\NLW\nlw_dotnet_fev_2025\TechLibrary\TechLibrary.Exception\bin\Debug\net8.0\TechLibrary.Exception.deps.json
+C:\Users\dsilva\OneDrive - Nepreconsulting\Desktop\NLW\nlw_dotnet_fev_2025\TechLibrary\TechLibrary.Exception\bin\Debug\net8.0\TechLibrary.Exception.dll
+C:\Users\dsilva\OneDrive - Nepreconsulting\Desktop\NLW\nlw_dotnet_fev_2025\TechLibrary\TechLibrary.Exception\bin\Debug\net8.0\TechLibrary.Exception.pdb
+C:\Users\dsilva\OneDrive - Nepreconsulting\Desktop\NLW\nlw_dotnet_fev_2025\TechLibrary\TechLibrary.Exception\obj\Debug\net8.0\TechLibrary.Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsilva\OneDrive - Nepreconsulting\Desktop\NLW\nlw_dotnet_fev_2025\TechLibrary\TechLibrary.Exception\obj\Debug\net8.0\TechLibrary.Exception.AssemblyInfoInputs.cache
+C:\Users\dsilva\OneDrive - Nepreconsulting\Desktop\NLW\nlw_dotnet_fev_2025\TechLibrary\TechLibrary.Exception\obj\Debug\net8.0\TechLibrary.Exception.AssemblyInfo.cs
+C:\Users\dsilva\OneDrive - Nepreconsulting\Desktop\NLW\nlw_dotnet_fev_2025\TechLibrary\TechLibrary.Exception\obj\Debug\net8.0\TechLibrary.Exception.csproj.CoreCompileInputs.cache
+C:\Users\dsilva\OneDrive - Nepreconsulting\Desktop\NLW\nlw_dotnet_fev_2025\TechLibrary\TechLibrary.Exception\obj\Debug\net8.0\TechLibrary.Exception.sourcelink.json
+C:\Users\dsilva\OneDrive - Nepreconsulting\Desktop\NLW\nlw_dotnet_fev_2025\TechLibrary\TechLibrary.Exception\obj\Debug\net8.0\TechLibrary.Exception.dll
+C:\Users\dsilva\OneDrive - Nepreconsulting\Desktop\NLW\nlw_dotnet_fev_2025\TechLibrary\TechLibrary.Exception\obj\Debug\net8.0\refint\TechLibrary.Exception.dll
+C:\Users\dsilva\OneDrive - Nepreconsulting\Desktop\NLW\nlw_dotnet_fev_2025\TechLibrary\TechLibrary.Exception\obj\Debug\net8.0\TechLibrary.Exception.pdb
+C:\Users\dsilva\OneDrive - Nepreconsulting\Desktop\NLW\nlw_dotnet_fev_2025\TechLibrary\TechLibrary.Exception\obj\Debug\net8.0\ref\TechLibrary.Exception.dll
