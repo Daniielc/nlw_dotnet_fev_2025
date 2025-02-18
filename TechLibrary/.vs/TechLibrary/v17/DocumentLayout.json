@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniel Chaves\\source\\repos\\NLW\\TechLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\daniel chaves\\source\\repos\\nlw\\techlibrary\\techlibrary.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\daniel chaves\\source\\repos\\nlw\\techlibrary\\techlibrary.api\\infraestructure\\techlibrarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\infraestructure\\techlibrarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\daniel chaves\\source\\repos\\nlw\\techlibrary\\techlibrary.api\\usecases\\users\\register\\registeruserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\usecases\\users\\register\\registeruserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278321B8-EFAD-40BE-B224-279396A78FDD}|TechLibrary.Exception\\TechLibrary.Exception.csproj|c:\\users\\daniel chaves\\source\\repos\\nlw\\techlibrary\\techlibrary.exception\\erroronvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{278321B8-EFAD-40BE-B224-279396A78FDD}|TechLibrary.Exception\\TechLibrary.Exception.csproj|solutionrelative:techlibrary.exception\\erroronvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\daniel chaves\\source\\repos\\nlw\\techlibrary\\techlibrary.api\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D335D452-5316-4C04-801D-7695F86978A1}|TechLibrary.Communication\\TechLibrary.Communication.csproj|c:\\users\\daniel chaves\\source\\repos\\nlw\\techlibrary\\techlibrary.communication\\responses\\responseregistereduserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D335D452-5316-4C04-801D-7695F86978A1}|TechLibrary.Communication\\TechLibrary.Communication.csproj|solutionrelative:techlibrary.communication\\responses\\responseregistereduserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterUserUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Chaves\\source\\repos\\NLW\\TechLibrary\\TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
+              "ToolTip": "C:\\Users\\Daniel Chaves\\source\\repos\\NLW\\TechLibrary\\TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
+              "RelativeToolTip": "TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T01:56:35.995Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Chaves\\source\\repos\\NLW\\TechLibrary\\TechLibrary.Api\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Daniel Chaves\\source\\repos\\NLW\\TechLibrary\\TechLibrary.Api\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T03:16:51.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TechLibraryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Chaves\\source\\repos\\NLW\\TechLibrary\\TechLibrary.Api\\Infraestructure\\TechLibraryDbContext.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Infraestructure\\TechLibraryDbContext.cs",
+              "ToolTip": "C:\\Users\\Daniel Chaves\\source\\repos\\NLW\\TechLibrary\\TechLibrary.Api\\Infraestructure\\TechLibraryDbContext.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Infraestructure\\TechLibraryDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T03:11:47.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorOnValidationException.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Chaves\\source\\repos\\NLW\\TechLibrary\\TechLibrary.Exception\\ErrorOnValidationException.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Exception\\ErrorOnValidationException.cs",
+              "ToolTip": "C:\\Users\\Daniel Chaves\\source\\repos\\NLW\\TechLibrary\\TechLibrary.Exception\\ErrorOnValidationException.cs",
+              "RelativeToolTip": "TechLibrary.Exception\\ErrorOnValidationException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T03:07:24.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResponseRegisteredUserJson.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Chaves\\source\\repos\\NLW\\TechLibrary\\TechLibrary.Communication\\Responses\\ResponseRegisteredUserJson.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Communication\\Responses\\ResponseRegisteredUserJson.cs",
+              "ToolTip": "C:\\Users\\Daniel Chaves\\source\\repos\\NLW\\TechLibrary\\TechLibrary.Communication\\Responses\\ResponseRegisteredUserJson.cs",
+              "RelativeToolTip": "TechLibrary.Communication\\Responses\\ResponseRegisteredUserJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T01:51:45.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Chaves\\source\\repos\\NLW\\TechLibrary\\TechLibrary.Api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Daniel Chaves\\source\\repos\\NLW\\TechLibrary\\TechLibrary.Api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAWwCEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T00:59:28.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

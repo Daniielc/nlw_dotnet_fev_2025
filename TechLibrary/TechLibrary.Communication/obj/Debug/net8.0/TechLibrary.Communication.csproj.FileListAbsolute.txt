@@ -1,0 +1,11 @@
+C:\Users\Daniel Chaves\source\repos\NLW\TechLibrary\TechLibrary.Communication\bin\Debug\net8.0\TechLibrary.Communication.deps.json
+C:\Users\Daniel Chaves\source\repos\NLW\TechLibrary\TechLibrary.Communication\bin\Debug\net8.0\TechLibrary.Communication.dll
+C:\Users\Daniel Chaves\source\repos\NLW\TechLibrary\TechLibrary.Communication\bin\Debug\net8.0\TechLibrary.Communication.pdb
+C:\Users\Daniel Chaves\source\repos\NLW\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\TechLibrary.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Chaves\source\repos\NLW\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\TechLibrary.Communication.AssemblyInfoInputs.cache
+C:\Users\Daniel Chaves\source\repos\NLW\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\TechLibrary.Communication.AssemblyInfo.cs
+C:\Users\Daniel Chaves\source\repos\NLW\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\TechLibrary.Communication.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Chaves\source\repos\NLW\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\TechLibrary.Communication.dll
+C:\Users\Daniel Chaves\source\repos\NLW\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\refint\TechLibrary.Communication.dll
+C:\Users\Daniel Chaves\source\repos\NLW\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\TechLibrary.Communication.pdb
+C:\Users\Daniel Chaves\source\repos\NLW\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\ref\TechLibrary.Communication.dll
