@@ -1,34 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dsilva\\OneDrive - Nepreconsulting\\Desktop\\NLW\\nlw_dotnet_fev_2025\\TechLibrary\\",
+  "WorkspaceRootPath": "C:\\Users\\Daniel Chaves\\source\\repos\\NLW\\TechLibrary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\dsilva\\onedrive - nepreconsulting\\desktop\\nlw\\nlw_dotnet_fev_2025\\techlibrary\\techlibrary.api\\infraestructure\\security\\tokens\\access\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\infraestructure\\security\\tokens\\access\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\daniel chaves\\source\\repos\\nlw\\techlibrary\\techlibrary.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\dsilva\\onedrive - nepreconsulting\\desktop\\nlw\\nlw_dotnet_fev_2025\\techlibrary\\techlibrary.api\\usecases\\users\\register\\registeruserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\usecases\\users\\register\\registeruserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\daniel chaves\\source\\repos\\nlw\\techlibrary\\techlibrary.api\\usecases\\login\\dologin\\dologinusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\usecases\\login\\dologin\\dologinusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D335D452-5316-4C04-801D-7695F86978A1}|TechLibrary.Communication\\TechLibrary.Communication.csproj|c:\\users\\dsilva\\onedrive - nepreconsulting\\desktop\\nlw\\nlw_dotnet_fev_2025\\techlibrary\\techlibrary.communication\\responses\\responseregistereduserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D335D452-5316-4C04-801D-7695F86978A1}|TechLibrary.Communication\\TechLibrary.Communication.csproj|solutionrelative:techlibrary.communication\\responses\\responseregistereduserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\dsilva\\onedrive - nepreconsulting\\desktop\\nlw\\nlw_dotnet_fev_2025\\techlibrary\\techlibrary.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\daniel chaves\\source\\repos\\nlw\\techlibrary\\techlibrary.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{278321B8-EFAD-40BE-B224-279396A78FDD}|TechLibrary.Exception\\TechLibrary.Exception.csproj|c:\\users\\dsilva\\onedrive - nepreconsulting\\desktop\\nlw\\nlw_dotnet_fev_2025\\techlibrary\\techlibrary.exception\\erroronvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{278321B8-EFAD-40BE-B224-279396A78FDD}|TechLibrary.Exception\\TechLibrary.Exception.csproj|solutionrelative:techlibrary.exception\\erroronvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\daniel chaves\\source\\repos\\nlw\\techlibrary\\techlibrary.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\dsilva\\onedrive - nepreconsulting\\desktop\\nlw\\nlw_dotnet_fev_2025\\techlibrary\\techlibrary.api\\infraestructure\\dataaccess\\techlibrarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\infraestructure\\dataaccess\\techlibrarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\dsilva\\onedrive - nepreconsulting\\desktop\\nlw\\nlw_dotnet_fev_2025\\techlibrary\\techlibrary.api\\infraestructure\\security\\cryptography\\bcryptalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\infraestructure\\security\\cryptography\\bcryptalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\daniel chaves\\source\\repos\\nlw\\techlibrary\\techlibrary.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,96 +30,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RegisterUserUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\dsilva\\OneDrive - Nepreconsulting\\Desktop\\NLW\\nlw_dotnet_fev_2025\\TechLibrary\\TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
-              "RelativeDocumentMoniker": "TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
-              "ToolTip": "C:\\Users\\dsilva\\OneDrive - Nepreconsulting\\Desktop\\NLW\\nlw_dotnet_fev_2025\\TechLibrary\\TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
-              "RelativeToolTip": "TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAnwCAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T01:56:35.995Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "JwtTokenGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\dsilva\\OneDrive - Nepreconsulting\\Desktop\\NLW\\nlw_dotnet_fev_2025\\TechLibrary\\TechLibrary.Api\\Infraestructure\\Security\\Tokens\\Access\\JwtTokenGenerator.cs",
-              "RelativeDocumentMoniker": "TechLibrary.Api\\Infraestructure\\Security\\Tokens\\Access\\JwtTokenGenerator.cs",
-              "ToolTip": "C:\\Users\\dsilva\\OneDrive - Nepreconsulting\\Desktop\\NLW\\nlw_dotnet_fev_2025\\TechLibrary\\TechLibrary.Api\\Infraestructure\\Security\\Tokens\\Access\\JwtTokenGenerator.cs",
-              "RelativeToolTip": "TechLibrary.Api\\Infraestructure\\Security\\Tokens\\Access\\JwtTokenGenerator.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAwwCAAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T19:02:22.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BCryptAlgorithm.cs",
-              "DocumentMoniker": "C:\\Users\\dsilva\\OneDrive - Nepreconsulting\\Desktop\\NLW\\nlw_dotnet_fev_2025\\TechLibrary\\TechLibrary.Api\\Infraestructure\\Security\\Cryptography\\BCryptAlgorithm.cs",
-              "RelativeDocumentMoniker": "TechLibrary.Api\\Infraestructure\\Security\\Cryptography\\BCryptAlgorithm.cs",
-              "ToolTip": "C:\\Users\\dsilva\\OneDrive - Nepreconsulting\\Desktop\\NLW\\nlw_dotnet_fev_2025\\TechLibrary\\TechLibrary.Api\\Infraestructure\\Security\\Cryptography\\BCryptAlgorithm.cs",
-              "RelativeToolTip": "TechLibrary.Api\\Infraestructure\\Security\\Cryptography\\BCryptAlgorithm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T17:18:45.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TechLibraryDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\dsilva\\OneDrive - Nepreconsulting\\Desktop\\NLW\\nlw_dotnet_fev_2025\\TechLibrary\\TechLibrary.Api\\Infraestructure\\DataAccess\\TechLibraryDbContext.cs",
-              "RelativeDocumentMoniker": "TechLibrary.Api\\Infraestructure\\DataAccess\\TechLibraryDbContext.cs",
-              "ToolTip": "C:\\Users\\dsilva\\OneDrive - Nepreconsulting\\Desktop\\NLW\\nlw_dotnet_fev_2025\\TechLibrary\\TechLibrary.Api\\Infraestructure\\DataAccess\\TechLibraryDbContext.cs",
-              "RelativeToolTip": "TechLibrary.Api\\Infraestructure\\DataAccess\\TechLibraryDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T03:11:47.583Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ErrorOnValidationException.cs",
-              "DocumentMoniker": "C:\\Users\\dsilva\\OneDrive - Nepreconsulting\\Desktop\\NLW\\nlw_dotnet_fev_2025\\TechLibrary\\TechLibrary.Exception\\ErrorOnValidationException.cs",
-              "RelativeDocumentMoniker": "TechLibrary.Exception\\ErrorOnValidationException.cs",
-              "ToolTip": "C:\\Users\\dsilva\\OneDrive - Nepreconsulting\\Desktop\\NLW\\nlw_dotnet_fev_2025\\TechLibrary\\TechLibrary.Exception\\ErrorOnValidationException.cs",
-              "RelativeToolTip": "TechLibrary.Exception\\ErrorOnValidationException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Chaves\\source\\repos\\NLW\\TechLibrary\\TechLibrary.Api\\Program.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel Chaves\\source\\repos\\NLW\\TechLibrary\\TechLibrary.Api\\Program.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T03:07:24.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ResponseRegisteredUserJson.cs",
-              "DocumentMoniker": "C:\\Users\\dsilva\\OneDrive - Nepreconsulting\\Desktop\\NLW\\nlw_dotnet_fev_2025\\TechLibrary\\TechLibrary.Communication\\Responses\\ResponseRegisteredUserJson.cs",
-              "RelativeDocumentMoniker": "TechLibrary.Communication\\Responses\\ResponseRegisteredUserJson.cs",
-              "ToolTip": "C:\\Users\\dsilva\\OneDrive - Nepreconsulting\\Desktop\\NLW\\nlw_dotnet_fev_2025\\TechLibrary\\TechLibrary.Communication\\Responses\\ResponseRegisteredUserJson.cs",
-              "RelativeToolTip": "TechLibrary.Communication\\Responses\\ResponseRegisteredUserJson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T01:51:45.521Z",
+              "WhenOpened": "2025-02-19T02:03:53.725Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Chaves\\source\\repos\\NLW\\TechLibrary\\TechLibrary.Api\\Filters\\ExceptionFilter.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Filters\\ExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\Daniel Chaves\\source\\repos\\NLW\\TechLibrary\\TechLibrary.Api\\Filters\\ExceptionFilter.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Filters\\ExceptionFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:54:18.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoLoginUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Chaves\\source\\repos\\NLW\\TechLibrary\\TechLibrary.Api\\UseCases\\Login\\DoLogin\\DoLoginUseCase.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\UseCases\\Login\\DoLogin\\DoLoginUseCase.cs",
+              "ToolTip": "C:\\Users\\Daniel Chaves\\source\\repos\\NLW\\TechLibrary\\TechLibrary.Api\\UseCases\\Login\\DoLogin\\DoLoginUseCase.cs",
+              "RelativeToolTip": "TechLibrary.Api\\UseCases\\Login\\DoLogin\\DoLoginUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:15:38.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Chaves\\source\\repos\\NLW\\TechLibrary\\TechLibrary.Api\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Daniel Chaves\\source\\repos\\NLW\\TechLibrary\\TechLibrary.Api\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:11:10.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\dsilva\\OneDrive - Nepreconsulting\\Desktop\\NLW\\nlw_dotnet_fev_2025\\TechLibrary\\TechLibrary.Api\\Controllers\\UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Chaves\\source\\repos\\NLW\\TechLibrary\\TechLibrary.Api\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "TechLibrary.Api\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\dsilva\\OneDrive - Nepreconsulting\\Desktop\\NLW\\nlw_dotnet_fev_2025\\TechLibrary\\TechLibrary.Api\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Daniel Chaves\\source\\repos\\NLW\\TechLibrary\\TechLibrary.Api\\Controllers\\UsersController.cs",
               "RelativeToolTip": "TechLibrary.Api\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswAwAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T00:59:28.839Z",
               "EditorCaption": ""
