@@ -172,3 +172,11 @@ C:\Users\dsilva\OneDrive - Nepreconsulting\Desktop\NLW\nlw_dotnet_fev_2025\TechL
 C:\Users\dsilva\OneDrive - Nepreconsulting\Desktop\NLW\nlw_dotnet_fev_2025\TechLibrary\TechLibrary.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\dsilva\OneDrive - Nepreconsulting\Desktop\NLW\nlw_dotnet_fev_2025\TechLibrary\TechLibrary.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\dsilva\OneDrive - Nepreconsulting\Desktop\NLW\nlw_dotnet_fev_2025\TechLibrary\TechLibrary.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Daniel Chaves\source\repos\NLW\TechLibrary\TechLibrary.Api\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Daniel Chaves\source\repos\NLW\TechLibrary\TechLibrary.Api\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Users\Daniel Chaves\source\repos\NLW\TechLibrary\TechLibrary.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Daniel Chaves\source\repos\NLW\TechLibrary\TechLibrary.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Daniel Chaves\source\repos\NLW\TechLibrary\TechLibrary.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Daniel Chaves\source\repos\NLW\TechLibrary\TechLibrary.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Daniel Chaves\source\repos\NLW\TechLibrary\TechLibrary.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Daniel Chaves\source\repos\NLW\TechLibrary\TechLibrary.Api\obj\Debug\net8.0\TechLibrary.Api.sourcelink.json

@@ -529,18 +529,12 @@
       },
       "TechLibrary.Communication/1.0.0": {
         "runtime": {
-          "TechLibrary.Communication.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "TechLibrary.Communication.dll": {}
         }
       },
       "TechLibrary.Exception/1.0.0": {
         "runtime": {
-          "TechLibrary.Exception.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "TechLibrary.Exception.dll": {}
         }
       }
     }

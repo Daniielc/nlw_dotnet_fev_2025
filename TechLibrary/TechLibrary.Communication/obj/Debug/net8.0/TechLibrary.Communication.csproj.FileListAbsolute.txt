@@ -21,3 +21,4 @@ C:\Users\dsilva\OneDrive - Nepreconsulting\Desktop\NLW\nlw_dotnet_fev_2025\TechL
 C:\Users\dsilva\OneDrive - Nepreconsulting\Desktop\NLW\nlw_dotnet_fev_2025\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\refint\TechLibrary.Communication.dll
 C:\Users\dsilva\OneDrive - Nepreconsulting\Desktop\NLW\nlw_dotnet_fev_2025\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\TechLibrary.Communication.pdb
 C:\Users\dsilva\OneDrive - Nepreconsulting\Desktop\NLW\nlw_dotnet_fev_2025\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\ref\TechLibrary.Communication.dll
+C:\Users\Daniel Chaves\source\repos\NLW\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\TechLibrary.Communication.sourcelink.json

@@ -21,3 +21,4 @@ C:\Users\dsilva\OneDrive - Nepreconsulting\Desktop\NLW\nlw_dotnet_fev_2025\TechL
 C:\Users\dsilva\OneDrive - Nepreconsulting\Desktop\NLW\nlw_dotnet_fev_2025\TechLibrary\TechLibrary.Exception\obj\Debug\net8.0\refint\TechLibrary.Exception.dll
 C:\Users\dsilva\OneDrive - Nepreconsulting\Desktop\NLW\nlw_dotnet_fev_2025\TechLibrary\TechLibrary.Exception\obj\Debug\net8.0\TechLibrary.Exception.pdb
 C:\Users\dsilva\OneDrive - Nepreconsulting\Desktop\NLW\nlw_dotnet_fev_2025\TechLibrary\TechLibrary.Exception\obj\Debug\net8.0\ref\TechLibrary.Exception.dll
+C:\Users\Daniel Chaves\source\repos\NLW\TechLibrary\TechLibrary.Exception\obj\Debug\net8.0\TechLibrary.Exception.sourcelink.json
