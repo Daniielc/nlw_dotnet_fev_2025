@@ -1,29 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dsilva\\OneDrive - Nepreconsulting\\Desktop\\NLW\\nlw_dotnet_fev_2025\\TechLibrary\\",
+  "WorkspaceRootPath": "C:\\Users\\Daniel Chaves\\source\\repos\\NLW\\TechLibrary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D335D452-5316-4C04-801D-7695F86978A1}|TechLibrary.Communication\\TechLibrary.Communication.csproj|c:\\users\\dsilva\\onedrive - nepreconsulting\\desktop\\nlw\\nlw_dotnet_fev_2025\\techlibrary\\techlibrary.communication\\responses\\responsebookjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D335D452-5316-4C04-801D-7695F86978A1}|TechLibrary.Communication\\TechLibrary.Communication.csproj|solutionrelative:techlibrary.communication\\responses\\responsebookjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\daniel chaves\\source\\repos\\nlw\\techlibrary\\techlibrary.api\\usecases\\checkouts\\registerbookcheckoutusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\usecases\\checkouts\\registerbookcheckoutusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\dsilva\\onedrive - nepreconsulting\\desktop\\nlw\\nlw_dotnet_fev_2025\\techlibrary\\techlibrary.api\\usecases\\books\\filter\\filterbookusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\usecases\\books\\filter\\filterbookusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\daniel chaves\\source\\repos\\nlw\\techlibrary\\techlibrary.api\\services\\loggeduser\\loggeduserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\services\\loggeduser\\loggeduserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\dsilva\\onedrive - nepreconsulting\\desktop\\nlw\\nlw_dotnet_fev_2025\\techlibrary\\techlibrary.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\daniel chaves\\source\\repos\\nlw\\techlibrary\\techlibrary.api\\controllers\\checkoutscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\controllers\\checkoutscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\dsilva\\onedrive - nepreconsulting\\desktop\\nlw\\nlw_dotnet_fev_2025\\techlibrary\\techlibrary.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\daniel chaves\\source\\repos\\nlw\\techlibrary\\techlibrary.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\dsilva\\onedrive - nepreconsulting\\desktop\\nlw\\nlw_dotnet_fev_2025\\techlibrary\\techlibrary.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\dsilva\\onedrive - nepreconsulting\\desktop\\nlw\\nlw_dotnet_fev_2025\\techlibrary\\techlibrary.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\daniel chaves\\source\\repos\\nlw\\techlibrary\\techlibrary.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D99235E-C2A5-4DC4-B964-5811C8F30937}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,83 +30,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ResponseBookJson.cs",
-              "DocumentMoniker": "C:\\Users\\dsilva\\OneDrive - Nepreconsulting\\Desktop\\NLW\\nlw_dotnet_fev_2025\\TechLibrary\\TechLibrary.Communication\\Responses\\ResponseBookJson.cs",
-              "RelativeDocumentMoniker": "TechLibrary.Communication\\Responses\\ResponseBookJson.cs",
-              "ToolTip": "C:\\Users\\dsilva\\OneDrive - Nepreconsulting\\Desktop\\NLW\\nlw_dotnet_fev_2025\\TechLibrary\\TechLibrary.Communication\\Responses\\ResponseBookJson.cs",
-              "RelativeToolTip": "TechLibrary.Communication\\Responses\\ResponseBookJson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T13:05:50.189Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FilterBookUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\dsilva\\OneDrive - Nepreconsulting\\Desktop\\NLW\\nlw_dotnet_fev_2025\\TechLibrary\\TechLibrary.Api\\UseCases\\Books\\Filter\\FilterBookUseCase.cs",
-              "RelativeDocumentMoniker": "TechLibrary.Api\\UseCases\\Books\\Filter\\FilterBookUseCase.cs",
-              "ToolTip": "C:\\Users\\dsilva\\OneDrive - Nepreconsulting\\Desktop\\NLW\\nlw_dotnet_fev_2025\\TechLibrary\\TechLibrary.Api\\UseCases\\Books\\Filter\\FilterBookUseCase.cs",
-              "RelativeToolTip": "TechLibrary.Api\\UseCases\\Books\\Filter\\FilterBookUseCase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Title": "LoggedUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Chaves\\source\\repos\\NLW\\TechLibrary\\TechLibrary.Api\\Services\\LoggedUser\\LoggedUserService.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Services\\LoggedUser\\LoggedUserService.cs",
+              "ToolTip": "C:\\Users\\Daniel Chaves\\source\\repos\\NLW\\TechLibrary\\TechLibrary.Api\\Services\\LoggedUser\\LoggedUserService.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Services\\LoggedUser\\LoggedUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T13:04:51.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\dsilva\\OneDrive - Nepreconsulting\\Desktop\\NLW\\nlw_dotnet_fev_2025\\TechLibrary\\TechLibrary.Api\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "TechLibrary.Api\\Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\dsilva\\OneDrive - Nepreconsulting\\Desktop\\NLW\\nlw_dotnet_fev_2025\\TechLibrary\\TechLibrary.Api\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "TechLibrary.Api\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T13:03:51.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dsilva\\OneDrive - Nepreconsulting\\Desktop\\NLW\\nlw_dotnet_fev_2025\\TechLibrary\\TechLibrary.Api\\Program.cs",
-              "RelativeDocumentMoniker": "TechLibrary.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\dsilva\\OneDrive - Nepreconsulting\\Desktop\\NLW\\nlw_dotnet_fev_2025\\TechLibrary\\TechLibrary.Api\\Program.cs",
-              "RelativeToolTip": "TechLibrary.Api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T02:03:53.725Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\dsilva\\OneDrive - Nepreconsulting\\Desktop\\NLW\\nlw_dotnet_fev_2025\\TechLibrary\\TechLibrary.Api\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "TechLibrary.Api\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\dsilva\\OneDrive - Nepreconsulting\\Desktop\\NLW\\nlw_dotnet_fev_2025\\TechLibrary\\TechLibrary.Api\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "TechLibrary.Api\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T01:11:10.852Z",
+              "WhenOpened": "2025-02-20T03:05:49.43Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\dsilva\\OneDrive - Nepreconsulting\\Desktop\\NLW\\nlw_dotnet_fev_2025\\TechLibrary\\TechLibrary.Api\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "TechLibrary.Api\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\dsilva\\OneDrive - Nepreconsulting\\Desktop\\NLW\\nlw_dotnet_fev_2025\\TechLibrary\\TechLibrary.Api\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "TechLibrary.Api\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAswAwAAAASAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Chaves\\source\\repos\\NLW\\TechLibrary\\TechLibrary.Api\\Program.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel Chaves\\source\\repos\\NLW\\TechLibrary\\TechLibrary.Api\\Program.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T00:59:28.839Z"
+              "WhenOpened": "2025-02-20T02:18:51.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Chaves\\source\\repos\\NLW\\TechLibrary\\TechLibrary.Api\\Filters\\ExceptionFilter.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Filters\\ExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\Daniel Chaves\\source\\repos\\NLW\\TechLibrary\\TechLibrary.Api\\Filters\\ExceptionFilter.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Filters\\ExceptionFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T00:21:23.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterBookCheckoutUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Chaves\\source\\repos\\NLW\\TechLibrary\\TechLibrary.Api\\UseCases\\Checkouts\\RegisterBookCheckoutUseCase.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\UseCases\\Checkouts\\RegisterBookCheckoutUseCase.cs",
+              "ToolTip": "C:\\Users\\Daniel Chaves\\source\\repos\\NLW\\TechLibrary\\TechLibrary.Api\\UseCases\\Checkouts\\RegisterBookCheckoutUseCase.cs",
+              "RelativeToolTip": "TechLibrary.Api\\UseCases\\Checkouts\\RegisterBookCheckoutUseCase.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:31:18.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckoutsController.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Chaves\\source\\repos\\NLW\\TechLibrary\\TechLibrary.Api\\Controllers\\CheckoutsController.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Controllers\\CheckoutsController.cs",
+              "ToolTip": "C:\\Users\\Daniel Chaves\\source\\repos\\NLW\\TechLibrary\\TechLibrary.Api\\Controllers\\CheckoutsController.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Controllers\\CheckoutsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswA8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:01:14.677Z",
+              "EditorCaption": ""
             }
           ]
         }

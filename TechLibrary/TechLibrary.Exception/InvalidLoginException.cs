@@ -1,10 +1,12 @@
-﻿using System.Net;
+﻿using System.Drawing;
+using System.Net;
 
 namespace TechLibrary.Exception
 {
     public class InvalidLoginException : TechLibraryException
     {
-        public override List<string> GetErrorMessages() => ["E-mail e/ou senha inválidos."];
+        public InvalidLoginException() : base("E-mail e/ou senha inválidos.") { }
+        public override List<string> GetErrorMessages() => [Message];
 
         public override HttpStatusCode GetStatusCode() => HttpStatusCode.Unauthorized;
     }

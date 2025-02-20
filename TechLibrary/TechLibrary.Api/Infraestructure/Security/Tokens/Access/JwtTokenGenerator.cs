@@ -28,7 +28,7 @@ namespace TechLibrary.Api.Infraestructure.Security.Tokens.Access
             return tokenHandler.WriteToken(securityToken);
         }
 
-        private SymmetricSecurityKey SecurityKey()
+        public SymmetricSecurityKey SecurityKey()
         {
             var signingKey = "re2FZvXGJzKmCX24srNkA4ZoMLygcvyb";
             var symetricKey = Encoding.UTF8.GetBytes(signingKey);

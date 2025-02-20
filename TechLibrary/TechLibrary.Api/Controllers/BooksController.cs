@@ -23,10 +23,7 @@ namespace TechLibrary.Api.Controllers
                 Title = title
             });
 
-            if (result.Books.Count > 0)
-                return Ok(result);
-
-            return NoContent();
+            return Ok(result);
         }
     }
 }
